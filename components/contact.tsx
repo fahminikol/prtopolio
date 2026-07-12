@@ -118,7 +118,7 @@ export default function Contact() {
                       <p className="text-gray-400 text-sm">Code Repository</p>
                    </div>
                    <a 
-                     href="https://github.com/BranProHengker"
+                     href="#"
                      target="_blank"
                      className="flex items-center justify-between w-full py-2 px-4 bg-white/5 hover:bg-white/10 rounded-lg text-sm text-gray-300 transition-colors"
                    >
