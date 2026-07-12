@@ -55,7 +55,7 @@ export default function Footer() {
   ]
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/BranProHengker", label: "GitHub" },
+    { icon: Github, href: "#", label: "GitHub" },
     { icon: Linkedin, href: "#/", label: "LinkedIn" },
     { icon: Instagram, href: "https://www.instagram.com/fahmi.vntg?igsh=ZHEyaWZnNmVkM2R1", label: "Instagram" },
     { icon: Twitter, href: "#", label: "Twitter" },
